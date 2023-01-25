@@ -35,7 +35,7 @@ blue :#1E9BDE.  rgb(30,155,222)
 yellow : #FFC100   rgb(255,193,0)
 light grey :#E6EBED  rgb(230,235,237)
 
-
+ <img width="663" alt="Screen Shot 2023-01-25 at 2 27 07 PM" src="https://user-images.githubusercontent.com/74334552/214667167-27baaee1-a6df-4aaf-97a1-45f59c9225a1.png">
 
 Group Member mission : 
 Ryan Haire  : 
